@@ -1,0 +1,4 @@
+select vdisk file=C:\VHD\Workspace.vhdx
+attach vdisk
+attributes disk clear readonly
+online disk  
